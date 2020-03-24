@@ -1,1 +1,8 @@
 node_modules
+osa1/part1/.gitignore
+osa1/part1/package.json
+osa1/part1/package-lock.json
+osa1/part1/README.md
+osa1/part1/src/index.css
+osa1/part1/src/index.js
+osa1/part1/public/index.html
