@@ -6,3 +6,15 @@ osa1/part1/README.md
 osa1/part1/src/index.css
 osa1/part1/src/index.js
 osa1/part1/public/index.html
+osa2/spa/.gitignore
+osa2/spa/db.json
+osa2/spa/package.json
+osa2/spa/package-lock.json
+osa2/spa/README.md
+osa2/spa/public/index.html
+osa2/spa/src/App.js
+osa2/spa/src/index.css
+osa2/spa/src/index.js
+osa2/spa/src/components/Note.js
+osa2/spa/src/components/Notification.js
+osa2/spa/src/services/notes.js
